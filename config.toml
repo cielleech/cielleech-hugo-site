@@ -1,4 +1,4 @@
-baseURL = "http://cielleech.github.io/"
+baseURL = "https://cielleech.github.io/"
 languageCode = "en-us"
 title = "rookie的小屋"
 theme = "kraiklyn"
