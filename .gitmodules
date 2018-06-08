@@ -4,3 +4,7 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:cielleech/cielleech.github.io.git
+[submodule "cielleech.github.io"]
+	path = cielleech.github.io
+	url = git@github.com:cielleech/cielleech.github.io.git
+	branch = master

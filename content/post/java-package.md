@@ -1,5 +1,5 @@
 ---
-title: "Gradle Shadow插件"
+title: "Gradle Shadow插件"
 date: 2018-05-14T12:43:26+08:00
 draft: false
 ---
